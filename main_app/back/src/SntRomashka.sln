@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snt.Romashka.Host", "Snt.Romashka.Host\Snt.Romashka.Host.csproj", "{2CA98911-9D82-48CA-91D0-11AC702F6572}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snt.Romashka.Ef", "Snt.Romashka.Ef\Snt.Romashka.Ef.csproj", "{7BA509CC-2FEB-4350-B5C7-01DA6124967F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snt.Romashka.Contracts", "Snt.Romashka.Contracts\Snt.Romashka.Contracts.csproj", "{746C1F0A-2C4F-451E-9107-6A0A4BE60D6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snt.Romashka.Repositories.Abstracts", "Snt.Romashka.Repositories.Abstracts\Snt.Romashka.Repositories.Abstracts.csproj", "{72255AB7-66AC-407E-9F35-7A7BE2A0AF80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snt.Romashka.Services.Abstracts", "Snt.Romashka.Services.Abstracts\Snt.Romashka.Services.Abstracts.csproj", "{D2181269-7337-4054-8A18-B3C32DE33953}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snt.Romashka.WebApi", "Snt.Romashka.WebApi\Snt.Romashka.WebApi.csproj", "{E2DB1EAA-0AD2-49E1-B43B-3B7C63B3C9F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snt.Romashka.Repositories.Concretes", "Snt.Romashka.Repositories.Concretes\Snt.Romashka.Repositories.Concretes.csproj", "{7CAE7C87-F682-49D2-B3B3-71AF8FF7EA55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CA98911-9D82-48CA-91D0-11AC702F6572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CA98911-9D82-48CA-91D0-11AC702F6572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CA98911-9D82-48CA-91D0-11AC702F6572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CA98911-9D82-48CA-91D0-11AC702F6572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BA509CC-2FEB-4350-B5C7-01DA6124967F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BA509CC-2FEB-4350-B5C7-01DA6124967F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BA509CC-2FEB-4350-B5C7-01DA6124967F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BA509CC-2FEB-4350-B5C7-01DA6124967F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{746C1F0A-2C4F-451E-9107-6A0A4BE60D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{746C1F0A-2C4F-451E-9107-6A0A4BE60D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{746C1F0A-2C4F-451E-9107-6A0A4BE60D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{746C1F0A-2C4F-451E-9107-6A0A4BE60D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72255AB7-66AC-407E-9F35-7A7BE2A0AF80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72255AB7-66AC-407E-9F35-7A7BE2A0AF80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72255AB7-66AC-407E-9F35-7A7BE2A0AF80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72255AB7-66AC-407E-9F35-7A7BE2A0AF80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2181269-7337-4054-8A18-B3C32DE33953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2181269-7337-4054-8A18-B3C32DE33953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2181269-7337-4054-8A18-B3C32DE33953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2181269-7337-4054-8A18-B3C32DE33953}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2DB1EAA-0AD2-49E1-B43B-3B7C63B3C9F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2DB1EAA-0AD2-49E1-B43B-3B7C63B3C9F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2DB1EAA-0AD2-49E1-B43B-3B7C63B3C9F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2DB1EAA-0AD2-49E1-B43B-3B7C63B3C9F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CAE7C87-F682-49D2-B3B3-71AF8FF7EA55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CAE7C87-F682-49D2-B3B3-71AF8FF7EA55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CAE7C87-F682-49D2-B3B3-71AF8FF7EA55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CAE7C87-F682-49D2-B3B3-71AF8FF7EA55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
