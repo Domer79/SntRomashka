@@ -9,9 +9,8 @@ namespace Snt.Romashka.Repositories.Abstracts
         Task<User[]> GetAll();
         Task<User> GetById(Guid id);
         Task<User> Upsert(User user);
-        Task<User> SetPassword(User user);
+        Task<User> SetPassword(string loginOrEmail, string password);
         Task<bool> Remove(Guid userId);
-        Task<bool> Remove(User user);
         Task<User> GetByLogin(string login);
         Task<Role[]> GetRoles(Guid userId);
         Task<Role[]> GetRoles(string login);

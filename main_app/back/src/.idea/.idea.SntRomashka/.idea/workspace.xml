@@ -26,59 +26,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b75bd81-85b6-43cb-b3fc-dd3980656d44" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SntRomashka/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SntRomashka/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SntRomashka/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SntRomashka/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SntRomashka/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SntRomashka/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SntRomashka/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Contracts/CustomClaimTypes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Contracts/Page.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Contracts/Permission.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Contracts/Role.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Contracts/RolePermission.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Contracts/SecurityPolicy.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Contracts/Snt.Romashka.Contracts.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Contracts/Token.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Contracts/User.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Contracts/UserRole.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Ef/Configurations/PermissionConfiguration.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Ef/Configurations/RoleConfiguration.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Ef/Configurations/TokenConfiguration.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Ef/Configurations/UserConfiguration.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Ef/Configurations/UserRoleConfiguration.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Ef/Snt.Romashka.Ef.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Ef/SntRomashkaContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Host/Authentication/CustomAuthPolicyProvider.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Host/Authentication/CustomAuthorizationHandler.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Host/Authentication/CustomSecurityAttribute.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Host/Authentication/PolicyAuthorizationRequirement.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Host/Authentication/TokenAuthenticationHandler.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Host/Authentication/TokenAuthenticationOptions.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Host/KestrelServerOptionsExtensions.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Host/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Host/Snt.Romashka.Host.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Host/Startup.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Host/StartupHelper.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Host/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Repositories.Abstracts/IPermissionRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Repositories.Abstracts/IRolePermissionRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Repositories.Abstracts/IRoleRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Repositories.Abstracts/ITokenRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Repositories.Abstracts/IUserRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Repositories.Abstracts/IUserRoleRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Repositories.Abstracts/Snt.Romashka.Repositories.Abstracts.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Services.Abstracts/IAuthService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Services.Abstracts/IPermissionService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Services.Abstracts/IRoleService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Services.Abstracts/ITokenService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Services.Abstracts/IUserRoleService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Services.Abstracts/IUserService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Services.Abstracts/Snt.Romashka.Services.Abstracts.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.WebApi/Controllers/HomeController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snt.Romashka.WebApi/Snt.Romashka.WebApi.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SntRomashka.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SntRomashka/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SntRomashka/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Database.Core/CommoDb.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Database.Core/CommonDbHelper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Database.Core/Snt.Romashka.Database.Core.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Database.Core/SqlConnectionFactory.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Db.Core.Abstracts/CommonDbTransactionWrapper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Db.Core.Abstracts/ICommonDb.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Db.Core.Abstracts/IConnectionFactory.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Db.Core.Abstracts/IEntityCollectionInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Db.Core.Abstracts/IGlobalSettings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Db.Core.Abstracts/Snt.Romashka.Db.Core.Abstracts.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Repositories.Concretes/TaskHelpers.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Repositories.Concretes/UserRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Repositories.Tests/Helper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Repositories.Tests/Snt.Romashka.Repositories.Tests.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Repositories.Tests/TestSettings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snt.Romashka.Repositories.Tests/UserRepositoryTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SntRomashka/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SntRomashka/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Snt.Romashka.Contracts/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Snt.Romashka.Contracts/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Snt.Romashka.Ef/Configurations/UserConfiguration.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Snt.Romashka.Ef/Configurations/UserConfiguration.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Snt.Romashka.Host/Authentication/TokenAuthenticationHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Snt.Romashka.Host/Authentication/TokenAuthenticationHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Snt.Romashka.Repositories.Abstracts/IUserRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Snt.Romashka.Repositories.Abstracts/IUserRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Snt.Romashka.Repositories.Concretes/Class1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Snt.Romashka.Repositories.Concretes/Snt.Romashka.Repositories.Concretes.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Snt.Romashka.Repositories.Concretes/Snt.Romashka.Repositories.Concretes.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SntRomashka.sln" beforeDir="false" afterPath="$PROJECT_DIR$/SntRomashka.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,11 +70,14 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/Domer/source/repos/SntRomashka/main_app/back/src/Snt.Romashka.Database.Core/CommoDb.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/b8c56d5b036f2a6fe79726c905c982bb3e77beec6526d3695d5daf1286da/SqlMapper.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Domer/source/repos/SntRomashka/main_app/back/src/Snt.Romashka.Database.Core/CommoDb.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Domer/source/repos/SntRomashka/main_app/back/src/Snt.Romashka.Database.Core/CommoDb.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/18eeccdccf5a61d417d7fe6e63014e1cd53a654653fc3543f4a655c54e3cb/LoggingBuilderConfigurationExtensions.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/39c05a262c304f0baf68d816fced27b82c1588/e8/cb407257/IsolationLevel.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/39c05a262c304f0baf68d816fced27b82c1588/cf/201c6812/IDbConnection.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/.nuget/packages/nlog.config/4.7.12/contentFiles/any/any/NLog.config" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -145,6 +121,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlserver" />
     <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
     <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30010834" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -152,7 +129,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.environmentSetup" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected=".NET Project.Snt.Romashka.Host">
     <configuration name="Snt.Romashka.Host" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -186,7 +163,24 @@
       <workItem from="1643532756468" duration="3145000" />
       <workItem from="1643731904383" duration="2972000" />
       <workItem from="1643858046914" duration="9492000" />
+      <workItem from="1643907740996" duration="3100000" />
+      <workItem from="1643986901492" duration="31835000" />
     </task>
+    <task id="LOCAL-00001" summary="Рабочее состояние приложения">
+      <created>1643907952255</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643907952255</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Скрипт БД">
+      <created>1643907970662</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643907970662</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +192,31 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="497132d2-acce-440d-b8e0-594b3054cc0e">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/Domer/source/repos/SntRomashka/main_app/back/src/Snt.Romashka.Db.Core.Abstracts" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
@@ -205,8 +224,61 @@
         </entry>
       </map>
     </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="497132d2-acce-440d-b8e0-594b3054cc0e" value="TOOL_WINDOW" />
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Рабочее состояние приложения" />
+    <MESSAGE value="Скрипт БД" />
+    <option name="LAST_COMMIT_MESSAGE" value="Скрипт БД" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Snt.Romashka.Repositories.Tests/UserRepositoryTests.cs</url>
+          <line>40</line>
+          <properties documentPath="C:\Users\Domer\source\repos\SntRomashka\main_app\back\src\Snt.Romashka.Repositories.Tests\UserRepositoryTests.cs" initialLine="35" containingFunctionPresentation="method 'GetAllTest'">
+            <startOffsets>
+              <option value="1127" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1445" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Snt.Romashka.Repositories.Tests/UserRepositoryTests.cs</url>
+          <line>27</line>
+          <properties documentPath="C:\Users\Domer\source\repos\SntRomashka\main_app\back\src\Snt.Romashka.Repositories.Tests\UserRepositoryTests.cs" initialLine="29" containingFunctionPresentation="method 'BaseSetUp'">
+            <startOffsets>
+              <option value="865" />
+            </startOffsets>
+            <endOffsets>
+              <option value="873" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Snt.Romashka.Repositories.Tests/UserRepositoryTests.cs</url>
+          <line>33</line>
+          <properties documentPath="C:\Users\Domer\source\repos\SntRomashka\main_app\back\src\Snt.Romashka.Repositories.Tests\UserRepositoryTests.cs" initialLine="33" containingFunctionPresentation="method 'BaseTearDown'">
+            <startOffsets>
+              <option value="1005" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1022" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

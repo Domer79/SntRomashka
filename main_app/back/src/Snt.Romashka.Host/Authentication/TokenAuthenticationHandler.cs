@@ -48,7 +48,7 @@ namespace Snt.Romashka.Host.Authentication
                     new(ClaimTypes.NameIdentifier, user.Login),
                     new(CustomClaimTypes.Token, tokenId),
                     new(CustomClaimTypes.Login, user.Login),
-                    new(CustomClaimTypes.UserId, user.Id.ToString())
+                    new(CustomClaimTypes.UserId, user.UserId.ToString())
                 };
                 var identity = new ClaimsIdentity(claims, Scheme.Name);
                 var principal = new System.Security.Principal.GenericPrincipal(identity, null);

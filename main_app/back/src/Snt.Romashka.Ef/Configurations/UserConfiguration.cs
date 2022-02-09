@@ -12,7 +12,7 @@ namespace Snt.Romashka.Ef.Configurations
             
             b.ToTable("user");
             
-            b.Property(_ => _.Id)
+            b.Property(_ => _.UserId)
                 .HasColumnName("user_id");
             
             b.Property(_ => _.Login)
@@ -29,13 +29,10 @@ namespace Snt.Romashka.Ef.Configurations
                 .HasColumnName("fio")
                 .HasMaxLength(500);
 
-            b.Property(_ => _.DateCreated)
+            b.Property(_ => _.Created)
                 .HasColumnName("date_created")
                 .IsRequired()
                 .HasDefaultValueSql("GETUTCDATE()");
-
-            b.Property(_ => _.DateBlocked)
-                .HasColumnName("date_blocked");
 
             b.Property(_ => _.Password)
                 .HasColumnName("password")
@@ -44,7 +41,7 @@ namespace Snt.Romashka.Ef.Configurations
             b.Property(_ => _.IsActive)
                 .HasColumnName("is_active");
             
-            b.HasKey(_ => _.Id);
+            b.HasKey(_ => _.UserId);
 
             b
                 .HasMany(_ => _.Roles)
